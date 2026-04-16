@@ -127,7 +127,7 @@ img {
 
 /* Hero */
 .hero {
-  background-image: url('./images/bg-header-mobile.png');
+  background-image: url('./image/bg-header-mobile.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
@@ -267,7 +267,7 @@ img {
   }
 
   .hero {
-    background-image: url('./images/bg-header-desktop.png');
+    background-image: url('./image/bg-header-desktop.png');
     padding: 10rem 0 8rem;
   }
 
